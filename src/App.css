@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+}
+
+header {
+  padding-top: 25px;
+  background: #66101f;
+}
+
+.content-wrap {
+  max-width: 1000px;
+  width: 85%;
+  margin: 0 auto;
+  padding: 50px 0;
+}
+
+h1 {
+  font-size: 40px;
+  padding-bottom: 15px;
+}
+h3 {
+  font-size: 18px;
+  padding-bottom: 10px;
+}
+h1,
+h3 {
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: "Open Sans", sans-serif;
+}
+
+p {
+  text-align: justify;
+}
+
+.simulation {
+  background: #cad49d;
+}
+
+.intro {
+  background: #c0d8e0;
+}
+
+.subttl {
+  color: black;
+  padding-bottom: 10px;
+}
+video {
+  max-width: 700px;
+  width: 80%;
+  height: 400px;
+  float: right;
+  margin-left: 25px;
+  padding-top: 0;
+}
+
+.experiment {
+  padding-top: 30px;
+  height: 500px;
+}
+
+img {
+  padding: 30px 0;
+  margin: 0 auto;
+  height: 350px;
+  width: 60%;
+  display: block;
+}
